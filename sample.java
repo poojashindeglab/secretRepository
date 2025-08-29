@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+/*
+ * This program adds two numbers provided by the user and prints the result.
+ */
 public class Addition {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
